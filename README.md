@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmed Zakaria Hamed</h1>
 <h3 align="center">Data Scientist & Flutter developer</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=el-qady&label=Profile%20views&color=0e75b6&style=flat" alt="el-qady" /> </p>
 
 - 🌱 I’m currently learning **Flutter Development and Data Analysis**
 - 📫 How to reach me **ahmedelkady8798@gmail.com**
