@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Zakaria Hamed</h1>
-<h3 align="center">Data Scientist & Flutter developer from egypt-qena</h3>
+<h3 align="center">Data Scientist & Flutter developer</h3>
 
--  Portfolio [https://drive.google.com/file/d/1nRma3yGL-l_xVpHl_AktLestChdsq3tI/view?usp=sharing](https://drive.google.com/file/d/1nRma3yGL-l_xVpHl_AktLestChdsq3tI/view?usp=sharing)
-
+- 🌱 I’m currently learning **Flutter Development and Data Analysis**
 - 📫 How to reach me **ahmedelkady8798@gmail.com**
-
+- ⚡ Fun fact **Numbers reveal truth**
+-  📁 Portfolio [https://drive.google.com/file/d/1nRma3yGL-l_xVpHl_AktLestChdsq3tI/view?usp=sharing](https://drive.google.com/file/d/1nRma3yGL-l_xVpHl_AktLestChdsq3tI/view?usp=sharing)
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmed-el-qady-51b965252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-el-qady-51b965252" height="30" width="40" /></a>
