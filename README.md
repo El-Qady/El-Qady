@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Flutter Development and Data Analysis**
 - 📫 How to reach me **ahmedelkady8798@gmail.com**
 -  📁 Portfolio [https://drive.google.com/file/d/1nRma3yGL-l_xVpHl_AktLestChdsq3tI/view?usp=sharing](https://drive.google.com/file/d/1nRma3yGL-l_xVpHl_AktLestChdsq3tI/view?usp=sharing)
--  - ⚡ Fun fact **Numbers reveal truth**
+-  ⚡ Fun fact **Numbers reveal truth**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
